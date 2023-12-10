@@ -1,5 +1,5 @@
 # We find 
-
+https://aleixdiazzz.github.io/find.html
 
 ## Overview
 
@@ -28,6 +28,7 @@ To view the project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/dreig-dawi/Proyecto-LM`
 2. Open `landing.html` with you favorite browser and get finding.
+3. We reccomend viewing with Firefox 120.0 or later.
 
 Happy coding and happy travels in Mallorca!
 
